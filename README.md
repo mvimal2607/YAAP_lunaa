@@ -7,7 +7,7 @@
 <b>To install YAAP on the Realme GT Master Edition (codename: lunaa), follow these steps:</b>
 
 1. Download Recovery
-- Download the [YAAP Recovery] file and extract it to a folder on your computer.
+- Download the [YAAP Recovery](https://github.com/mvimal2607/YAAP_lunaa/releases/download/YAAP-15-HOMEMADE-lunaa-20250523/yaap_recovery.zip) file and extract it to a folder on your computer.
 
 2. Flash the Recovery
 - On Linux: Run the <b>flash.sh</b> script.
