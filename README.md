@@ -17,7 +17,7 @@ This will flash the recovery and automatically boot your device into the YAAP re
 3. Wipe Data
 In the recovery menu, select "Wipe data/factory reset" to clear existing data on the device.
 
-4. Sideload CalyxOS
+4. Sideload YAAP
 Use the following command in a terminal or command prompt to sideload the YAAP zip file:
 ``` adb sideload <path-to-filename.zip> ```
 
