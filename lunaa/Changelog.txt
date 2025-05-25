@@ -1,0 +1,7 @@
+
+• Implemented OTA Update for HOMEMADE builds.
+• Added default hotspot SSID as "Realme GT Master"
+• Fixed Lockscreen Charging info.
+• Fixed Flickering when turning off screen
+• Update from OOS 14.0.0.1901(EX01)
+(Bump vendor security patch as 01.04.2025)
