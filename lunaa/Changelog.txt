@@ -1,8 +1,7 @@
 Source Changelog:
 
-• build/override Talkback and ESpeakNG
-• Set FakeStore as Aurora Store installer package name
+• None
 
 Device Changelogs:
 
-• Rework Statusbar padding
+• Fixed always on fingerprint where issue on auto touch

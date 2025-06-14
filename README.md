@@ -27,6 +27,20 @@ The sideload process will progress to 94% before finishing. This is normal—be 
 6. Reboot
 Once the sideload is done, select "Reboot system now" from the recovery menu. Congratulations! You’ve successfully flashed YAAP!
 
+## Dirty Flash
+
+1. Reboot to Recovery 
+
+2. Sideload YAAP
+Use the following command in a terminal or command prompt to sideload the YAAP zip file:
+``` adb sideload <path-to-filename.zip> ```
+
+3. Wait for Completion
+The sideload process will progress to 94% before finishing. This is normal—be patient until it completes.
+
+4. Reboot
+Once the sideload is done, select "Reboot system now" from the recovery menu. Congratulations! You’ve successfully flashed YAAP!
+
 ## Notes
 
 - Always back up your data before starting the installation. 
@@ -35,7 +49,7 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 
 If you find my work on this project helpful, please consider supporting me through a donation:
 
-- [GitHub Sponsor](https://github.com/sponsors/mvimal2607)  
-- [PayPal](http://paypal.me/Vimal2607)  
+- [GitHub Sponsor](https://github.com/sponsors/mvimal2607)
+- [PayPal](http://paypal.me/Vimal2607)
 
 Why Donations Matter for AOSP Projects? [read here](https://github.com/mvimal2607/.github?tab=readme-ov-file#why-donations-matter-for-aosp-projects).
