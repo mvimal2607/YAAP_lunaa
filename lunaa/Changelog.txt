@@ -1,5 +1,5 @@
-Changelogs:
+• Fixed media server crash(media rendering issue)
+• Kernel Upstreamed to 5.4.293
 
-• Initial A16 GAPP Build(BETA)
-• Freeform Removed
+Bugs:
 • UDFPS Overlay broken(it recognizes the touch and register and also working fine Without any issues)
