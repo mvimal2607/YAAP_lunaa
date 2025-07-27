@@ -1,8 +1,9 @@
-• Fixes HeyMelody app
-• Fixes FOD issue
-• Bring Back freeform
-• Disable all capitalized smart reply text
-• Moved to qssi system IMS"
+• Vanilla: update microg, microg companion, F-droid
+• Allow enabling Desktop Mode (Experimental dev setting)
+• Launcher: replace AOSP "Close" action with custom "Kill" action
+• Add Google Sans Flex font
+• Inbuilt keybox implementation in dev option
+• Few other changes
 
 Bugs:
 • UDFPS Overlay broken(it recognizes the touch and register and also working fine Without any issues)
