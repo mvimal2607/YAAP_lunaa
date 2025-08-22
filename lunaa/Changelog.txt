@@ -1,1 +1,6 @@
-• NO MORE UPDATE FOR GAPP USERS (THANKS FOR NO SUPPORT 👍) 
+• Add system-wide support for DC Dimming (+ QS tile)
+• Make internet tile to be added by default on first boot
+• Migrate to QTI USB Gadget AIDL HAL
+• Switch to NCM USB tethering
+• Few other minor changes
+• Sync with latest source
