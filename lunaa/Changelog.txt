@@ -1,4 +1,7 @@
-• Apply September security patches
-• Add Roboto Flex font
-• Latest Source sync
-• Kernel UPSTREAM 5.4.296 With ziti source
+• Kernel Upstream 5.4.300
+• Allow automatically turning on mobile data when pressing the tile
+• Launcher3: Allow to always show page indicator dots
+• Launcher3: Add 4x6 and 4x7 grid sizes
+• Add Sony Sketch font
+• Add Rubik font
+• Update MicroG (Version 0.3.10.250932)
