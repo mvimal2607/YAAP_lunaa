@@ -1,7 +1,2 @@
-• Kernel Upstream 5.4.300
-• Allow automatically turning on mobile data when pressing the tile
-• Launcher3: Allow to always show page indicator dots
-• Launcher3: Add 4x6 and 4x7 grid sizes
-• Add Sony Sketch font
-• Add Rubik font
-• Update MicroG (Version 0.3.10.250932)
+• Initial QPR1 build
+• Synced with latest source
