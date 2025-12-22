@@ -1,2 +1,5 @@
-• Initial QPR1 build
-• Synced with latest source
+• Synced with latest source (QPR2)
+• WFD system blobs from dada OS2.0.217.0.WOCMIXM
+• Switch to step_wise thermal governor
+• Fixed Haptics
+• Kernel Upstream 5.4.302
