@@ -1,5 +1,6 @@
-• Synced with latest source (QPR2)
-• WFD system blobs from dada OS2.0.217.0.WOCMIXM
-• Switch to step_wise thermal governor
-• Fixed Haptics
-• Kernel Upstream 5.4.302
+• Synced with latest source
+• Moved to full erofs
+• Fixed MediaServer crash
+• Drop oplus-fwk anf move to qssi system IMS from LA.QSSI.15.0.r1-16100-qssi.0
+• Kang Poweroff alarm from LA.QSSI.16.0.r1-06700-qssi.0
+• Update Vendor blobs from CPH2569_15.0.0.901(EX01)
