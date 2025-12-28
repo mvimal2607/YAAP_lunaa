@@ -18,7 +18,7 @@ This will flash the recovery and automatically boot your device into the YAAP re
 In the recovery menu, select "Wipe data/factory reset" to clear existing data on the device.
 
 4. Sideload YAAP
-Use the following command in a terminal or command prompt to sideload the YAAP zip file:
+Use the following command in a terminal:
 
 ```
 adb sideload <path-to-filename.zip>
@@ -35,7 +35,7 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 1. Reboot to Recovery 
 
 2. Sideload YAAP
-Use the following command in a terminal or command prompt to sideload the YAAP zip file:
+Use the following command in a terminal:
 
 ``` 
 adb sideload <path-to-filename.zip>
