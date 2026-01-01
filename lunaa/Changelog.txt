@@ -1,6 +1,4 @@
-• Synced with latest source
-• Moved to full erofs
-• Fixed MediaServer crash
-• Drop oplus-fwk anf move to qssi system IMS from LA.QSSI.15.0.r1-16100-qssi.0
-• Kang Poweroff alarm from LA.QSSI.16.0.r1-06700-qssi.0
-• Update Vendor blobs from CPH2569_15.0.0.901(EX01)
+• Synced with latest source changes
+• Update from CPH2569_15.0.0.1601(EX01)
+• fixed lag in qs, app drawer, and launcher
+• Add horae and oplus charger
