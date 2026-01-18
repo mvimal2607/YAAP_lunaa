@@ -1,6 +1,19 @@
-• Add system-wide support for DC Dimming (+ QS tile)
-• Make internet tile to be added by default on first boot
-• Migrate to QTI USB Gadget AIDL HAL
-• Switch to NCM USB tethering
-• Few other minor changes
-• Sync with latest source
+Rom:
+• Add back QPR2 Smartspace as a lockscreen weather provider
+• Add blurs option to fine-tuned battery saver
+• Allow setting a wider range for battery saver schedule %
+• Enable Expressive UI in GMS Setup Wizard
+• Fix non persisting toggles in fine-tuned battery saver
+• Fix broken toggles in fine-tuned battery saver
+• Fix charging sounds toggle title
+• Launcher: fix hide label toggle hiding popup labels
+• Launcher: drop configurable blur radius due to performance issues
+• Resize some statusbar icons to better fit the rest
+• Fix QS network traffic monitor on white theme
+• Fix setup wizard crash on Vanilla
+• Launcher: Bring back add app icon to home screen toggle
+
+Device:
+• Introduce flash light strength
+• Copy powerhint.xml from power hal
+• Update Common blob from CP2569_15.0.0.1602(EX01)
