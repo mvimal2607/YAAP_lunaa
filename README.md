@@ -59,6 +59,5 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 If you find my work on this project helpful, please consider supporting me through a donation:
 
 - [GitHub Sponsor](https://github.com/sponsors/mvimal2607)
-- [PayPal](http://paypal.me/Vimal2607)
 
 Why Donations Matter for AOSP Projects? [read here](https://github.com/mvimal2607/.github?tab=readme-ov-file#why-donations-matter-for-aosp-projects).
