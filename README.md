@@ -49,6 +49,8 @@ Once the sideload is done, select "Reboot system now" from the recovery menu. Co
 
 ## Notes
 
+- Vanilla build has in-built microg (do not try to flash gapps over this) which provides an experience without google services meanwhile Gapps version has a set of google apps to get your device ready to go with google services.
+
 - Always back up your data before starting the installation. 
 
 ### • Downloads:
